@@ -27,6 +27,7 @@ return {
 					},
 				},
 			})
+			vim.cmd([[hi Pmenu guibg=Moonbowbg0]])
 		end,
 		dependencies = {
 			"MunifTanjim/nui.nvim",
