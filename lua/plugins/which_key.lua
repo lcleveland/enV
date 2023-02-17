@@ -5,6 +5,7 @@ return {
 			vim.o.timeout = true
 			vim.o.timeoutlen = 300
 			require("which-key").setup({})
+			require("which_key_mapping")
 		end,
 	},
 }

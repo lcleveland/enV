@@ -8,5 +8,3 @@ require("lazy").setup("plugins", {
 		},
 	},
 })
--- todo: check that which-key is installed
-require("which_key_mapping")
