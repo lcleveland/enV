@@ -1,6 +1,6 @@
 return {
 	{
-		"HiPhish/nvim-ts-rainbow2",
+		"nvim-treesitter/nvim-treesitter-refactor",
 		dependencies = {
 			"nvim-treesitter/nvim-treesitter",
 		},
