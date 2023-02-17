@@ -13,4 +13,5 @@ wk.register({
 	},
 	L = { "<cmd>Lazy<cr>", "[L]azy" },
 	M = { "<cmd>Mason<cr>", "[M]ason" },
+	T = { "<cmd>Twilight<cr>", "[T]wilight" },
 }, { prefix = "<leader>" })
