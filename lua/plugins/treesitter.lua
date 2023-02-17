@@ -21,17 +21,6 @@ return {
 				indent = {
 					enable = true,
 				},
-				rainbow = {
-					enable = true,
-					query = "rainbow-parens",
-					strategy = require("ts-rainbow.strategy.global"),
-				},
-				refactor = {
-					highlight_definitions = {
-						enable = true,
-						clear_on_cursor_move = true,
-					},
-				},
 			})
 		end,
 		build = ":TSUpdate",
