@@ -6,5 +6,8 @@ return {
 		config = function()
 			vim.cmd([[colorscheme moonbow]])
 		end,
+		init = function()
+			vim.opt.termguicolors = true
+		end,
 	},
 }
