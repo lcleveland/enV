@@ -13,6 +13,7 @@ wk.register({
 	},
 	t = {
 		name = "[t]elescope",
+		b = { "<cmd>Telescope buffers<cr>", "Buffers" },
 		f = { "<cmd>Telescope find_files<cr>", "Files" },
 		g = {
 			name = "[g]it",
