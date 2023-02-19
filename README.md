@@ -77,6 +77,15 @@ Install the Prerequisites for your OS below.
   sudo pip3 install pynvim
  ```
 
+* Windows Powershell
+
+ ```pwsh
+  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+  choco install neovim git python 7zip tartool nodejs make fd ripgrep -y
+  npm install -g neovim
+  pip3 install pynvim
+ ```
+
 ### Installation
 
 1. Clone the repo into your .config/nvim directory
