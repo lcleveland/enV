@@ -118,17 +118,11 @@ Install the Prerequisites for your OS below.
    git clone https://github.com/lcleveland/enV.git ~\.config\nvim\.
    ```
 
-3. Install NPM packages
+* Windows
 
-   ```sh
-   npm install
-   ```
-
-4. Enter your API in `config.js`
-
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+ ```pwsh
+  git clone https://github.com/lcleveland/enV.git %localappdata%\nvim\.
+ ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
