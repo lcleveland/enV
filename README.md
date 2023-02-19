@@ -32,8 +32,6 @@
     <a href="https://github.com/lcleveland/enV"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lcleveland/enV">View Demo</a>
-    ·
     <a href="https://github.com/lcleveland/enV/issues">Report Bug</a>
     ·
     <a href="https://github.com/lcleveland/enV/issues">Request Feature</a>
