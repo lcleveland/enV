@@ -106,10 +106,7 @@ Install the Prerequisites for your OS below.
 
 # Roadmap
 
-* [ ] Feature 1
-* [ ] Feature 2
-* [ ] Feature 3
-  * [ ] Nested Feature
+* [ ] Basic plugins
 
 See the [open issues](https://github.com/lcleveland/enV/issues) for a full list of proposed features (and known issues).
 
