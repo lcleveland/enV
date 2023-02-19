@@ -27,7 +27,7 @@
 <h3 align="center">enV</h3>
 
   <p align="center">
-    My NVim enVironment.
+    NVim enVironment.
     <br />
     <a href="https://github.com/lcleveland/enV"><strong>Explore the docs »</strong></a>
     <br />
