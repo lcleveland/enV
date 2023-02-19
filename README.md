@@ -121,7 +121,7 @@ Install the Prerequisites for your OS below.
 * Windows
 
    ```pwsh
-    git clone <https://github.com/lcleveland/enV.git> %localappdata%\nvim\.
+    git clone https://github.com/lcleveland/enV.git %localappdata%\nvim\.
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
