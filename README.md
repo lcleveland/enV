@@ -118,10 +118,10 @@ Install the Prerequisites for your OS below.
    git clone https://github.com/lcleveland/enV.git ~\.config\nvim\.
    ```
 
-* Windows
+* Windows Powershell
 
    ```pwsh
-    git clone https://github.com/lcleveland/enV.git %localappdata%\nvim\.
+    git clone https://github.com/lcleveland/enV.git $env:LOCALAPPDATA\nvim\.
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
