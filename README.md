@@ -93,18 +93,20 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Install the Prerequisites for your OS below.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* Linux
 
-* npm
-
-  ```sh
-  npm install npm@latest -g
-  ```
+ ```
+ sudo add-apt-repository ppa:neovim-ppa/unstable
+  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+  sudo apt update
+  sudo apt install neovim git curl unzip gzip nodejs python3-venv python3-pip fd-find ripgrep -y
+  sudo npm install -g neovim
+  sudo pip3 install pynvim
+ ```
 
 ### Installation
 
