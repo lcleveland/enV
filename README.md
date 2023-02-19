@@ -110,11 +110,12 @@ Install the Prerequisites for your OS below.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo into your .config/nvim directory
+
+* Linux
 
    ```sh
-   git clone https://github.com/lcleveland/enV.git
+   git clone https://github.com/lcleveland/enV.git ~\.config\nvim\.
    ```
 
 3. Install NPM packages
