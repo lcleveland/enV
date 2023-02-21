@@ -19,7 +19,7 @@ return {
 					enable = true,
 				},
 				indent = {
-					enable = true,
+					enable = false,
 				},
 			})
 		end,
