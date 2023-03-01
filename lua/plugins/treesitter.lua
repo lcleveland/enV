@@ -22,6 +22,9 @@ return {
 					enable = false,
 				},
 			})
+			vim.opt.foldlevel = 20
+			vim.opt.foldmethod = "expr"
+			vim.opt.foldexpr = "nvim_treesitter#foldexpr()"
 		end,
 		build = ":TSUpdate",
 	},
