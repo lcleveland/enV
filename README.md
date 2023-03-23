@@ -72,7 +72,7 @@ Install the Prerequisites for your OS below.
   sudo add-apt-repository ppa:neovim-ppa/unstable
   curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
   sudo apt update
-  sudo apt install neovim git curl unzip gzip nodejs python3-venv python3-pip fd-find ripgrep -y
+  sudo apt install neovim git curl unzip gzip nodejs python3-venv python3-pip fd-find fzf ripgrep -y
   sudo npm install -g neovim
   sudo pip3 install pynvim
  ```
